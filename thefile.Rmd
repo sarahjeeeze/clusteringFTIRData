@@ -70,10 +70,10 @@ print(p)
 ```
 
 
-![sumofsquares](C:\projects\InfraredR\clusteringFTIRData\cellclusters.jpeg)
-![cluster0](C:\projects\InfraredR\clusteringFTIRData\plotofclusters.jpeg)
+![sumofsquares](cellclusters.jpeg)
+![cluster0](plotofclusters.jpeg)
 
-![cluster1](C:\projects\InfraredR\clusteringFTIRData\sumofs.jpeg)
+![cluster1](sumofs.jpeg)
 
 Using pie charts i experimented with different numbers of clusters
 
